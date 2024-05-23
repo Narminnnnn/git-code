@@ -1,0 +1,10 @@
+cd desktop
+mkdir world
+cd world
+pwd
+cd ..
+echo 'baku' >file.txt
+touch 'file.txt'
+git init
+git add .
+
