@@ -1,0 +1,74 @@
+<head></head>
+<head>
+<meta>
+<meta name="description" content="blabla">
+<meta name="keywords" content="blabla">
+<meta name="author">  content="blabla"
+<title>Blabla</title>
+</head>
+
+<body></body>
+<body>
+<h1>blabla</h1> - başlıq
+<h2>blabla</h2>
+<h3>blabla</h3>
+<h4>blabla</h4>
+<h5>blabla</h5>
+<h6>blabla</h6>
+
+<p>blablablabla</p> - paragrah
+
+<span>blabla</span>
+<span style="color:">blabla</span> - seçilmiş sözü rəngləmək
+
+<small>blabla</small> - seçilmiş sözü balaca yazmaq
+
+<b>blabla</b> - seçilmiş yer bold olur
+
+<strong>blabla</strong> - seçilmiş yer bold olur
+
+<i>blabla</i> - seçilmiş yer italik olur
+<em>blabla</em> - secilmis yer italik olur
+
+<mark>blabla</mark> - seçilmiş yer markerlənir
+
+<ul>      - alt alta sadə list forması
+<li>blabla</li>
+</ul>
+
+<ol>   - sira ile listleme
+<li></li>
+</ol>
+<ol type="I" ve ya "a" ve ya 'A'>   - type atributu elave etmekle istediyin kimi listlemek
+<li></li>
+</ol>
+
+number<sub>blabla</sub> -alt yazi metni
+
+number<sup>blabla</sup> -ust yazi metni
+
+cedvel qurmaq ucun
+ <table></table>
+<table>
+<tr>  - setr
+<th></th> - cedvelin basliq hissesin yazmaq ucun
+</tr
+qisasi yeni
+<tr><th></th></tr>
+<tr> 
+<td></td> novbeti xanalari yazmaq ucun
+</tr>
+</table>
+
+<style>table, th, td {border: 1px solid black;}</style> - xanalarin gorunmesi ucun
+
+<form></form>
+<form>
+<label for="name">Ad</label> <br>
+    <input id="name" type="text"> <br> <br>
+    <label for="surname">Soyad</label> <br> 
+    <input id="surname"type="text"> <br> <br>
+
+    <input type="submit" value="Gonder">  <br> <br>
+<button></button>
+</form>
